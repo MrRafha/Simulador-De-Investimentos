@@ -1,6 +1,6 @@
 # Simulador de Investimentos
 
-    Aplicativo Flutter para comparar dois investimentos usando juros compostos, aportes mensais e um período compartilhado.
+Aplicativo Flutter para comparar dois investimentos usando juros compostos, aportes mensais e um período compartilhado.
 
 ## Funcionalidades
 
@@ -40,6 +40,14 @@ flutter build apk
 ```
 
 O APK de release será criado em `build/app/outputs/flutter-apk/app-release.apk`.
+
+## Vídeo de demonstração
+
+[Assistir ao vídeo de demonstração no YouTube](https://www.youtube.com/watch?v=sOx446ix2Oo)
+
+## Download do aplicativo
+
+[Baixar o APK na página de Releases do GitHub](https://github.com/MrRafha/Simulador-De-Investimentos/releases)
 
 ## Estrutura
 
